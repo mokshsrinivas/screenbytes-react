@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header, footer {
+    background-color: #333;
+    color: white;
+}
+
+header .navbar-brand, header .nav-link, footer p {
+    color: white;
+}
+
+main {
+    padding: 2em;
+}
+
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+}
+
+.form-group label {
+    margin-top: 1em;
+}
+
+.btn-info, .btn-danger {
+    margin-top: 1em;
+}
