@@ -8,7 +8,7 @@ const About = () => (
             <div className="row">
                 <div className="col-md-4">
                     <div className="card">
-                        <img src="file:///Users/Moksh/Desktop/images.jpg" className="card-img-top" alt="Moksh" />
+                        <img src="https://www.rainforest-alliance.org/wp-content/uploads/2021/06/capybara-square-1.jpg.optimal.jpg" className="card-img-top" alt="Moksh" />
                         <div className="card-body">
                             <h5 className="card-title">Moksh</h5>
                             <p className="card-text">Hi, I am Moksh from Singapore and I love movies.</p>
